@@ -4,7 +4,7 @@ Identification of Potential Therapeutic Targets Against Acinetobacter baumannii 
 The purpose of this project is to identify which proteins in A. baumannii may serve as a potential drug target. The project uses subtractive proteomics to filter out proteins that share a human homolog, have no essentiality evidence to the organism, have no identified KEGG pathway, are not membrane-associated, and have a low STRING degree. The remaining candidate proteins also contain information with a DrugBank search for any logged drugs or potential homologous drugs.
 
 ====================================================================================================================================
-Requirements:
+**Requirements:**
 Python 15.1
 Packages: os, pandas, Bio, pathlib, subprocess
 
